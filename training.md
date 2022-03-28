@@ -11,10 +11,13 @@ https://user-images.githubusercontent.com/91375589/160338674-b0c39b2a-d294-482d-
 
 
 
-https://user-images.githubusercontent.com/91375589/160339003-fc4e5604-39ea-42d5-8780-664446751e79.mp4
 
->> कॉफी पीते हैं
+https://user-images.githubusercontent.com/91375589/160339988-4c4a9ce1-e44e-45f3-b60b-93246ac34427.mp4
 
+
+
+
+>> हम सब साथ साथ कॉफी पीते हैं
 ## Translation Inference Results
 
 - Prompt 
