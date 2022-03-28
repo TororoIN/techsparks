@@ -3,6 +3,16 @@
 ## ASR Inference Results
 
 
+
+https://user-images.githubusercontent.com/91375589/160338674-b0c39b2a-d294-482d-bee3-4132b7d6d332.mp4
+
+>> कॉफी पीते हैं
+
+
+
+https://user-images.githubusercontent.com/91375589/160338693-0adc9052-2cb0-49d8-9d23-e897745f11af.mp4
+
+>> आकाश नीला है
 ## Translation Inference Results
 
 - Prompt 
