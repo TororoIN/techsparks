@@ -59,3 +59,8 @@ https://user-images.githubusercontent.com/91375589/160333858-83a8ef7c-dec1-408d-
 
 https://user-images.githubusercontent.com/91375589/160333902-bee119e3-776b-4a1f-8121-f10163c92c9f.mp4
 
+
+
+## Some Hiccups...
+
+The Voice Conversion model (AutoVC) performs conversion well only when the data is already seen. So, in true sense, it is not Zero Shot. The zero shot performance of the model is not usable IRL. For this, the user can fine tune the model according to the target speaker's voice when necessary. This can be accomplished using a simple Streamlit UI. 
