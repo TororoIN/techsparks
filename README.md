@@ -3,7 +3,11 @@
 - Audio Input
 The audio input is from a podcast with Aman Dhattarwal's voice 
 
-- Audio Output
+https://user-images.githubusercontent.com/91375589/160323776-f2a59f58-f422-4e20-8b60-b119dd88f206.mp4
+
+
+
+- Audio Output (ASR)
 अगर आप एक यंग नए बंदे हो यार मैं आपको बोलूंगा शुरुआत में काम सीखना जरूरी है चाहे आपको फ्री में काम करना पड़े फ्री में काम करो राइट पर वो चीज़ सीखो
 
 - Translation
