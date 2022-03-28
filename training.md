@@ -5,6 +5,13 @@
 
 ## Translation Inference Results
 
+- Prompt 
+> If you want to win, you have to put in efforts
+>>  अगर आप जीतना चाहते हैं, तो आपको प्रयास करना होगा
+
+> He had the spirit of the nine tailed fox inside him
+>> उनके अंदर नौ पूंछ वाले लोमड़ियों की भावना थी
+
 
 ## Speech Synthesis Inference Results
 
