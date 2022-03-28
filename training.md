@@ -15,6 +15,16 @@
 
 ## Speech Synthesis Inference Results
 
+> He bought all the cake he could
+
+https://user-images.githubusercontent.com/91375589/160335424-2fffb23d-1c49-4b45-8c61-c757b2f2bfcd.mp4
+
+
+> Mom cooked a delicious meal, along with pudding for dessert
+
+https://user-images.githubusercontent.com/91375589/160335690-27c3e95b-5a32-49b0-a439-b72e8eede965.mp4
+
+
 
 ## Voice Conversion Inference Results
 
